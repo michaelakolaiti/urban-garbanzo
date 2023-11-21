@@ -1,2 +1,2 @@
-# urban-garbanzo
+# Example of README
 *Paradeigma ypotitlou*
